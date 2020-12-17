@@ -20,8 +20,16 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Maven
 
 ## Features  
+List of completed features:
+  *
+ 
+ To-do list:
+  * 
 
 ## Getting Started  
+1. Clone the repository with the following command: 
+  git clone https://github.com/rajsukanya/ExpenseReimbursementSystem.git
+2. Open the project in Spring Tools Suite and run index.html (found in src/main/webapp/resources/html/) on the Tomcat server. 
 
 ## Usage   
 
@@ -29,3 +37,4 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Miguel Garcia
 
 ## License
+This project uses the following license: MIT License
