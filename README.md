@@ -20,7 +20,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Maven
 
 ## Features  
-List of completed features:    
+List of additional features:    
   * Implemented an email feature where admins can sent user emails to request more information
   * Used AWS S3 bucket to host files for users
 
