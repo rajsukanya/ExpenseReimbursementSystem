@@ -20,18 +20,20 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * Maven
 
 ## Features  
-List of completed features:
-  *
- 
- To-do list:
-  * 
+List of completed features:    
+  * Implemented an email feature where admins can sent user emails to request more information
+  * Used AWS S3 bucket to host files for users
+
+ To-do list:    
+  * Retrieve files from AWS S3 bucket
+  * Implement triggers for time constraints
 
 ## Getting Started  
-1. Clone the repository with the following command: 
-  git clone https://github.com/rajsukanya/ExpenseReimbursementSystem.git
-2. Open the project in Spring Tools Suite and run index.html (found in src/main/webapp/resources/html/) on the Tomcat server. 
+* Clone the repository with the following command:   
+  git clone https://github.com/rajsukanya/ExpenseReimbursementSystem.git 
 
 ## Usage   
+* Open the project in Spring Tools Suite and right click on index.html (which can be found in src/main/webapp/resources/html/) and to go "Run as" and click on "Run on Server" to run it on the Tomcat server.
 
 ## Contributors
 * Miguel Garcia
