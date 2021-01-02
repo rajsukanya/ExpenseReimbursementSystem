@@ -33,7 +33,8 @@ List of additional features:
   git clone https://github.com/rajsukanya/ExpenseReimbursementSystem.git 
 
 ## Usage   
-* Open the project in Spring Tools Suite and right click on index.html (which can be found in src/main/webapp/resources/html/) and to go "Run as" and click on "Run on Server" to run it on the Tomcat server.
+* Open the project in Spring Tools Suite and make sure to add a server to run the project on in your project, then
+right click on index.html (which can be found in src/main/webapp/resources/html/) and to go "Run as" and click on "Run on Server" to run it on the Tomcat server.
 
 ## Contributors
 * Sukanya Raj
