@@ -36,6 +36,7 @@ List of additional features:
 * Open the project in Spring Tools Suite and right click on index.html (which can be found in src/main/webapp/resources/html/) and to go "Run as" and click on "Run on Server" to run it on the Tomcat server.
 
 ## Contributors
+* Sukanya Raj
 * Miguel Garcia
 
 ## License
